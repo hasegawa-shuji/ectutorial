@@ -20,12 +20,12 @@
 ![image](https://github.com/hasegawa-shuji/ectutorial/assets/102946478/b0128fc9-072b-4eea-af6b-01b4d0e269b9)
 
 
-数量を決め、ほかに買うものがなければ*レジに進む* ボタンを押す　
+数量を決め、ほかに買うものがなければ**レジに進む** ボタンを押す　
 
 ![image](https://github.com/hasegawa-shuji/ectutorial/assets/102946478/8c7b2c7e-fa18-4ad6-bd67-af9b52b970a6)
 
 
-クレジットカードの番号を入力し*注文を確定する* ボタンを押す
+クレジットカードの番号を入力し**注文を確定する** ボタンを押す
 
 ![image](https://github.com/hasegawa-shuji/ectutorial/assets/102946478/1d2bc0fd-00b9-45ba-8da1-35ac11134f57)
 
