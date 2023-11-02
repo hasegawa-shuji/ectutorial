@@ -15,7 +15,7 @@
 ![image](https://github.com/hasegawa-shuji/ectutorial/assets/102946478/adbc6387-8a79-4d1e-b2b3-aecd987252da)
 
 
-*カートに入れる* ボタンを押す
+**カートに入れる** ボタンを押す
 
 ![image](https://github.com/hasegawa-shuji/ectutorial/assets/102946478/b0128fc9-072b-4eea-af6b-01b4d0e269b9)
 
